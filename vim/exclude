@@ -1,0 +1,57 @@
+# git-ls-files --others --exclude-from=.git/info/exclude
+# Lines that start with '#' are comments.
+# For a project mostly in C, the following would be a good set of
+# exclude patterns (uncomment them if you want to use them):
+# *.[oa]
+# *~
+
+DrawIt.vba.gz
+Makefile_clean_vim
+myVimBackup/
+myVimBackup.7z
+vim71/README.txt
+vim71/autoload/
+vim71/bugreport.vim
+vim71/compiler/
+vim71/delmenu.vim
+vim71/diff.exe
+vim71/doc/
+vim71/evim.vim
+vim71/filetype.vim
+vim71/ftoff.vim
+vim71/ftplugin.vim
+vim71/ftplugin/
+vim71/ftplugof.vim
+vim71/gvim.exe
+vim71/gvimrc_example.vim
+vim71/iconv.dll
+vim71/indent.vim
+vim71/indent/
+vim71/indoff.vim
+vim71/install.exe
+vim71/lang/
+vim71/libintl.dll
+vim71/libintl.dll.old
+vim71/macmap.vim
+vim71/makefile-tag
+vim71/makemenu.vim
+vim71/menu.vim
+vim71/mswin.vim
+vim71/optwin.vim
+vim71/rgb.txt
+vim71/scripts.vim
+vim71/spell/
+vim71/synmenu.vim
+vim71/syntax/
+vim71/tools/
+vim71/tutor/
+vim71/uninstal.exe
+vim71/uninstal.txt
+vim71/uninstall-gui.exe
+vim71/vim.exe
+vim71/vimrc_example.vim
+vim71/vimrun.exe
+vim71/vimtutor.bat
+vim71/xxd.exe
+visual_studio.7z
+²Î¿¼Script.7z
